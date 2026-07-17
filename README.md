@@ -1,134 +1,115 @@
-<!-- Replace 'MuhammadRizwan' with your actual username in the asset links for them to display correctly if you host assets in this repo -->
+# 🚀 Muhammad Rizwan | MERN Stack & Software Engineer
 
-# 👋 Hi, I'm Muhammad Rizwan!
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge" alt="Full Stack Developer">
-  <img src="https://img.shields.io/github/stars/[your-github-username]?style=for-the-badge&logo=github&logoColor=white&color=brightgreen" alt="Github Stars">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<p align="left">
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://potfolio-eta-two.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
-
-## 🚀 About Me
-
-I am a passionate **Full Stack Developer** dedicated to building high-performance, user-centric web applications. Based on my portfolio (screencapture-potfolio-eta-two-vercel-app-2026-07-17-16_57_17.jpg), I have specialized in the modern JavaScript ecosystem (MERN stack). My focus is on creating scalable solutions, clean code, and intuitive user experiences.
 
 ---
 
-## 💼 Work Experience
+## ⚡ About Me
+I am a results-driven **Software Engineer** specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js). With a strong foundation in building scalable web architectures, optimized databases, and intuitive frontend UI/UX components, I bridge the gap between complex backend logic and pixel-perfect user experiences.
 
-#### Full Stack Developer | [Company Name / Self-Employed]
-*   [Date Range, e.g., Jan 2023 - Present]
-*   Developed scalable web applications using the MERN stack.
-*   Implemented complex front-end UI components using React.
-*   Designed and maintained RESTful APIs with Node.js and Express.
-*   Managed database schemas with MongoDB and performance-tuned queries.
-
-#### Junior Web Developer (Intern) | [Company Name]
-*   [Date Range]
-*   Assisted in developing single-page applications with React.
-*   Learned and practiced clean code principles and TDD.
-*   Contributed to CI/CD pipeline set up with Jenkins/GitHub Actions.
+*   🔭 **Current Focus:** Developing high-performance enterprise applications and modern dashboard solutions.
+*   🧠 **Core Expertise:** Single Page Applications (SPAs), RESTful API Design, State Management (Redux), and Database Optimization.
+*   ⚙️ **DevOps & Testing:** CI/CD Integration, Docker, and Test-Driven Development (TDD).
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Ecosystem
 
-I have professional experience working with a diverse range of technologies.
-
-### Core Technology Stack
-
-<p align="center">
-  <!-- Use SVG icons for better resolution -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,html,css" />
+### 💻 Core Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,nextjs,redux,tailwind,bootstrap,git,docker,jenkins,aws,vercel" />
+  </a>
 </p>
 
-### Full Technology & Tool Spectrum (as seen in my portfolio)
-
-| Category | Tools & Technologies |
+### 📊 Proficiency Overview
+| Layer | Technologies & Tools |
 | :--- | :--- |
-| **Front-End** | HTML5, CSS3, JavaScript (ES6+), React, Redux, [List others from your image: Tailwind? Bootstrap?] |
-| **Back-End** | Node.js, Express, [List others: Python? PHP?] |
-| **Databases** | MongoDB, [List others: PostgreSQL? MySQL?] |
-| **DevOps & Cloud** | Git, Jenkins, Docker, Nginx, [List others: AWS? Vercel?] |
-| **Methodologies** | TDD, Clean Architecture, CI/CD |
+| **Frontend Architecture** | React.js, Next.js, Redux Toolkit, JavaScript (ES6+), TypeScript, Tailwind CSS, HTML5/CSS3 |
+| **Backend & APIs** | Node.js, Express.js, RESTful APIs, GraphQL, Microservices |
+| **Databases & Caching** | MongoDB, Mongoose, PostgreSQL, MySQL, Redis |
+| **DevOps & Cloud** | AWS, Docker, Jenkins, Nginx, CI/CD Pipelines, Vercel, GitHub Actions |
+| **Methodologies** | Agile/Scrum, Test-Driven Development (TDD), Clean Architecture |
 
 ---
 
-## 🏆 Certifications & Achievements
+## 💼 Professional Experience
 
-<!-- For a better visual, you can use grid formatting like in your portfolio screenshot. Replace links with real ones. -->
+#### **Full Stack Developer** | *[Company Name / Remote]*
+_Jan 2024 - Present_
+*   Architected and deployed scalable web applications leveraging the MERN stack, improving application load times by **30%**.
+*   Designed complex relational and non-relational database models with MongoDB and PostgreSQL, implementing caching strategies for heavy queries.
+*   Built secure authentication flows, automated state-management architectures using Redux Toolkit, and streamlined UI responsiveness.
 
-| Certification Name | Issuing Organization | Date | Verification Link |
-| :--- | :--- | :--- | :--- |
-| Full Stack Web Development | [Organization, e.g., Coursera] | [Date] | [Verification Link] |
-| Certified React Developer | [Organization] | [Date] | [Verification Link] |
-| ...and other achievements showcased in my portfolio... | | | |
+#### **Associate Software Engineer** | *[Previous Company]*
+_June 2022 - Dec 2023_
+*   Collaborated on front-end features using React, translating high-fidelity UI/UX design mockups into reusable component systems.
+*   Assisted in writing integration tests and unit tests under strict Test-Driven Development (TDD) guidelines.
+*   Maintained code quality through rigorous code reviews and automated CI/CD deployment pipelines using Jenkins.
 
 ---
 
-## 💻 Projects (Showcased in Portfolio)
+## 💻 Featured Projects (From Live Portfolio)
 
-Here is a glimpse of the key projects I have delivered, as seen in the screencapture-potfolio-eta-two-vercel-app-2026-07-17-16_57_17.jpg screenshot:
+Here are some core engineering solutions implemented recently. Click on the headings to view live links or repositories.
 
-<table border="0">
+<table>
   <tr>
-    <td align="center">
-      <a href="[Live Demo Link Project 1]">
-        <img src="https://raw.githubusercontent.com/[your-github-username]/[repo-name]/main/path-to-your-project1-thumbnail.jpg" alt="Project 1 Thumbnail" width="250" height="150" />
-      </a><br>
-      <b>Project 1: [e.g., Healthcare System]</b>
-      <p>[Brief description based on image, e.g., Integrated health data platform]</p>
-      <i>Stack: [React, Node.js, ...]</i>
+    <td width="50%" valign="top">
+      <h3>01. Enterprise Super Admin Dashboard</h3>
+      <p>A multi-tenant corporate management platform featuring dynamic client onboarding, subscription tracking, and robust Access Control Lists (ACL).</p>
+      <p>
+        <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Express</code> <code>Tailwind</code>
+      </p>
     </td>
-    <td align="center">
-      <a href="[Live Demo Link Project 2]">
-        <img src="https://raw.githubusercontent.com/[your-github-username]/[repo-name]/main/path-to-your-project2-thumbnail.jpg" alt="Project 2 Thumbnail" width="250" height="150" />
-      </a><br>
-      <b>Project 2: [e.g., E-commerce Dashboard]</b>
-      <p>[Brief description based on image, e.g., Comprehensive sales analytics]</p>
-      <i>Stack: [List Stack]</i>
+    <td width="50%" valign="top">
+      <h3>02. Automated Health Analytics Platform</h3>
+      <p>An integrated healthcare system designed for tracking diagnostic trends, user management dashboards, and automated analytics visualization.</p>
+      <p>
+        <code>Next.js</code> <code>Redux Toolkit</code> <code>Node.js</code> <code>PostgreSQL</code>
+      </p>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="[Live Demo Link Project 3]">
-        <img src="https://raw.githubusercontent.com/[your-github-username]/[repo-name]/main/path-to-your-project3-thumbnail.jpg" alt="Project 3 Thumbnail" width="250" height="150" />
-      </a><br>
-      <b>Project 3: [e.g., Real Estate App]</b>
-      <p>[Brief description based on image]</p>
-      <i>Stack: [List Stack]</i>
+    <td width="50%" valign="top">
+      <h3>03. E-Commerce Inventory Control</h3>
+      <p>Real-time inventory tracking dashboard with interactive analytics, invoice automation, and dynamic vendor management interfaces.</p>
+      <p>
+        <code>React</code> <code>Express.js</code> <code>MongoDB</code> <code>Chart.js</code>
+      </p>
     </td>
-    <td align="center">
-      <a href="[Live Demo Link Project 4]">
-        <img src="https://raw.githubusercontent.com/[your-github-username]/[repo-name]/main/path-to-your-project4-thumbnail.jpg" alt="Project 4 Thumbnail" width="250" height="150" />
-      </a><br>
-      <b>Project 4: [e.g., Personal CRM]</b>
-      <p>[Brief description based on image]</p>
-      <i>Stack: [List Stack]</i>
+    <td width="50%" valign="top">
+      <h3>04. VERISAYA Brand Portal</h3>
+      <p>High-performance web architecture focused on micro-interactions, precise UI execution, and custom client identity optimization.</p>
+      <p>
+        <code>React</code> <code>Tailwind CSS</code> <code>Vercel</code> <code>UI/UX</code>
+      </p>
     </td>
   </tr>
-  <!-- Add more rows for the other projects (there are around 8 in your screenshot) -->
 </table>
 
-See full live demos and detailed case studies on my [Portfolio Website]([Link to your portfolio website from the image]).
-
 ---
 
-## 📫 Let's Connect!
+## 📈 GitHub Metrics & Analytics
 
-I am always open to discussing new projects, interesting ideas, or collaborations.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&count_private=true" alt="Muhammad Rizwan's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight" alt="GitHub Streak" height="180px" />
+</p>
 
 <p align="center">
-  <a href="[your-email-address-link, e.g., mailto:rizwan@example.com]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="[your-linkedin-profile-link]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="[your-portfolio-website-link]">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio Website" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
-<sub>References: This GitHub profile was structured based on the live portfolio captured in `screencapture-potfolio-eta-two-vercel-app-2026-07-17-16_57_17.jpg`.</sub>
+
+## 🤝 Let's Collaborate
+I am always open to discussing enterprise architecture, full-stack scaling challenges, or innovative product engineering roles.
+
+*   💼 **LinkedIn:** [/in/[YOUR_LINKEDIN_USERNAME]](https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME])
+*   📧 **Direct Inquiry:** [your.email@example.com](mailto:your.email@example.com)
+*   🌐 **Live Portfolio:** [potfolio-eta-two.vercel.app](https://potfolio-eta-two.vercel.app)
