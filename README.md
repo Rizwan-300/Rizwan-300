@@ -29,8 +29,8 @@ I am a results-driven **Software Engineer** specializing in the **MERN Stack** (
 ### 📊 Proficiency Overview
 | Layer | Technologies & Tools |
 | :--- | :--- |
-| **Frontend Architecture** | React.js, Next.js, Redux Toolkit, JavaScript (ES6+), TypeScript, Tailwind CSS, HTML5/CSS3 |
-| **Backend & APIs** | Node.js, Express.js, RESTful APIs, GraphQL, Microservices |
+| **Frontend Architecture** | React.js, Next.js, Redux Toolkit,TanStack Query, JavaScript (ES6+), TypeScript, Tailwind CSS, HTML5/CSS3 |
+| **Backend & APIs** | Node.js, Express.js, RESTful APIs, Microservices |
 | **Databases & Caching** | MongoDB, Mongoose, PostgreSQL, Redis |
 | **DevOps & Cloud** | AWS, Docker, Nginx, CI/CD Pipelines, Vercel, GitHub Actions |
 
@@ -38,13 +38,13 @@ I am a results-driven **Software Engineer** specializing in the **MERN Stack** (
 
 ## 💼 Professional Experience
 
-#### **Full Stack Developer** | *[Byte Craft]*
+#### **Full Stack Developer** | *Byte Craft*
 _Jan 2024 - Present_
 *   Architected and deployed scalable web applications leveraging the MERN stack, improving application load times by **30%**.
 *   Designed complex relational and non-relational database models with MongoDB and PostgreSQL, implementing caching strategies for heavy queries.
 *   Built secure authentication flows, automated state-management architectures using Redux Toolkit, and streamlined UI responsiveness.
 
-#### **Associate Software Engineer** | *[SL2 Studio]*
+#### **Associate Software Engineer** | *SL2 Studio*
 _June 2022 - Dec 2023_
 *   Collaborated on front-end features using React, translating high-fidelity UI/UX design mockups into reusable component systems.
 *   Assisted in writing integration tests and unit tests under strict Test-Driven Development (TDD) guidelines.
@@ -96,12 +96,12 @@ Here are some core engineering solutions implemented recently. Click on the head
 ## 📈 GitHub Metrics & Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&count_private=true" alt="Muhammad Rizwan's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight" alt="GitHub Streak" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rizwan-300&show_icons=true&theme=tokyonight&count_private=true" alt="Muhammad Rizwan's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rizwan-300&theme=tokyonight" alt="GitHub Streak" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rizwan-300&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
@@ -109,6 +109,6 @@ Here are some core engineering solutions implemented recently. Click on the head
 ## 🤝 Let's Collaborate
 I am always open to discussing enterprise architecture, full-stack scaling challenges, or innovative product engineering roles.
 
-*   💼 **LinkedIn:** [/in/[YOUR_LINKEDIN_USERNAME]](https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME])
+*   💼 **LinkedIn:** [/in/[YOUR_LINKEDIN_USERNAME]](https://www.linkedin.com/in/muhammad-rizwan-093727243/)
 *   📧 **Direct Inquiry:** [your.email@example.com](mailto:muhammadrizwanramzan300@gmail.com)
 *   🌐 **Live Portfolio:** [potfolio-eta-two.vercel.app](https://potfolio-eta-two.vercel.app)
