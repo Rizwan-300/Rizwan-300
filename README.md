@@ -109,6 +109,6 @@ Here are some core engineering solutions implemented recently. Click on the head
 ## 🤝 Let's Collaborate
 I am always open to discussing enterprise architecture, full-stack scaling challenges, or innovative product engineering roles.
 
-*   💼 **LinkedIn:** [/in/[YOUR_LINKEDIN_USERNAME]](https://www.linkedin.com/in/muhammad-rizwan-093727243/)
-*   📧 **Direct Inquiry:** [your.email@example.com](mailto:muhammadrizwanramzan300@gmail.com)
+*   💼 **LinkedIn:** [https://www.linkedin.com/in/muhammad-rizwan-093727243/]](https://www.linkedin.com/in/muhammad-rizwan-093727243/)
+*   📧 **Direct Inquiry:** [muhammadrizwanramzan300@gmail.com](mailto:muhammadrizwanramzan300@gmail.com)
 *   🌐 **Live Portfolio:** [potfolio-eta-two.vercel.app](https://potfolio-eta-two.vercel.app)
