@@ -31,21 +31,20 @@ I am a results-driven **Software Engineer** specializing in the **MERN Stack** (
 | :--- | :--- |
 | **Frontend Architecture** | React.js, Next.js, Redux Toolkit, JavaScript (ES6+), TypeScript, Tailwind CSS, HTML5/CSS3 |
 | **Backend & APIs** | Node.js, Express.js, RESTful APIs, GraphQL, Microservices |
-| **Databases & Caching** | MongoDB, Mongoose, PostgreSQL, MySQL, Redis |
-| **DevOps & Cloud** | AWS, Docker, Jenkins, Nginx, CI/CD Pipelines, Vercel, GitHub Actions |
-| **Methodologies** | Agile/Scrum, Test-Driven Development (TDD), Clean Architecture |
+| **Databases & Caching** | MongoDB, Mongoose, PostgreSQL, Redis |
+| **DevOps & Cloud** | AWS, Docker, Nginx, CI/CD Pipelines, Vercel, GitHub Actions |
 
 ---
 
 ## 💼 Professional Experience
 
-#### **Full Stack Developer** | *[Company Name / Remote]*
+#### **Full Stack Developer** | *[Byte Craft]*
 _Jan 2024 - Present_
 *   Architected and deployed scalable web applications leveraging the MERN stack, improving application load times by **30%**.
 *   Designed complex relational and non-relational database models with MongoDB and PostgreSQL, implementing caching strategies for heavy queries.
 *   Built secure authentication flows, automated state-management architectures using Redux Toolkit, and streamlined UI responsiveness.
 
-#### **Associate Software Engineer** | *[Previous Company]*
+#### **Associate Software Engineer** | *[SL2 Studio]*
 _June 2022 - Dec 2023_
 *   Collaborated on front-end features using React, translating high-fidelity UI/UX design mockups into reusable component systems.
 *   Assisted in writing integration tests and unit tests under strict Test-Driven Development (TDD) guidelines.
@@ -86,7 +85,7 @@ Here are some core engineering solutions implemented recently. Click on the head
       <h3>04. VERISAYA Brand Portal</h3>
       <p>High-performance web architecture focused on micro-interactions, precise UI execution, and custom client identity optimization.</p>
       <p>
-        <code>React</code> <code>Tailwind CSS</code> <code>Vercel</code> <code>UI/UX</code>
+        <code>React</code> <code>Tailwind CSS</code> <code>Vercel</code> <code>UI/UX</code> <code>AWS</code> <code>Stripe</code>
       </p>
     </td>
   </tr>
@@ -111,5 +110,5 @@ Here are some core engineering solutions implemented recently. Click on the head
 I am always open to discussing enterprise architecture, full-stack scaling challenges, or innovative product engineering roles.
 
 *   💼 **LinkedIn:** [/in/[YOUR_LINKEDIN_USERNAME]](https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME])
-*   📧 **Direct Inquiry:** [your.email@example.com](mailto:your.email@example.com)
+*   📧 **Direct Inquiry:** [your.email@example.com](mailto:muhammadrizwanramzan300@gmail.com)
 *   🌐 **Live Portfolio:** [potfolio-eta-two.vercel.app](https://potfolio-eta-two.vercel.app)
