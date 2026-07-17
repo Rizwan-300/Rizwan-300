@@ -100,15 +100,14 @@ Here are some core engineering solutions implemented recently. Click on the head
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rizwan-300&theme=tokyonight" alt="GitHub Streak" height="180px" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rizwan-300&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Contribution Graph" width="100%" />
-</p>
+</p> -->
 
 ---
 
-## 🤝 Let's Collaborate
-I am always open to discussing enterprise architecture, full-stack scaling challenges, or innovative product engineering roles.
+## 🤝 Let's Connect
 
-*   💼 **LinkedIn:** [https://www.linkedin.com/in/muhammad-rizwan-093727243/]](https://www.linkedin.com/in/muhammad-rizwan-093727243/)
-*   📧 **Direct Inquiry:** [muhammadrizwanramzan300@gmail.com](mailto:muhammadrizwanramzan300@gmail.com)
-*   🌐 **Live Portfolio:** [potfolio-eta-two.vercel.app](https://potfolio-eta-two.vercel.app)
+- 💼 **LinkedIn:** [Muhammad Rizwan](https://www.linkedin.com/in/muhammad-rizwan-093727243/)
+- 📧 **Email:** [muhammadrizwanramzan300@gmail.com](mailto:muhammadrizwanramzan300@gmail.com)
+- 🌐 **Portfolio:** [potfolio-eta-two.vercel.app](https://potfolio-eta-two.vercel.app)
